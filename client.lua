@@ -23,7 +23,7 @@ local location = GetStreetNameFromHashKey(street)
 local msg = table.concat(args, ' ')
 
     if args[1] == nil then
-        TriggerEvent('chatMessage', '^5San Andreas 911:', {255, 255, 255}, 'What is the nature and location of your emergency?')
+        TriggerEvent('chatMessage', '^5Ohio State  911', {255, 255, 255}, 'What is the nature and location of your emergency?')
     end
     if args[1] ~= nil then
         TriggerServerEvent('call911', location, msg, x, y, z, name)
