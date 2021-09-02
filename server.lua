@@ -1,6 +1,6 @@
 -- Config --
 
-webhookUrl = 'https://discord.com/api/webhooks/883091087693066270/Yuk9blSYGRsBSSFCgizaN0H4LF_A9ob1uKtrMzEoB9LqcokzIb7j10FVATaZiM51p8fO' --Should log thu Discord webhook ;p 
+webhookUrl = 'WEBHOOK_URLHERE' --Should log thu Discord webhook ;p 
 callBlips = true -- If you change this to "false", it will turn off the circle that is created when you use the /911 
 disableCallsInChat = false -- If you change this to "false", it will turn off chat calls!
 
